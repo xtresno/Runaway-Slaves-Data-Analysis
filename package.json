@@ -1,3 +1,7 @@
 {
-    "type": "module"
+    "type": "module",
+    "dependencies": {
+        "xlsx": "^0.18.5",
+        "xlsx-populate": "^1.21.0"
+    }
 }
